@@ -1,6 +1,6 @@
 # aws-account-shredder
 Repository to audit, service, and clean up leftover AWS resources
-
+![Constable](https://img.shields.io/badge/dynamic/json?label=Constable&query=$.grade&url=https://constable-github.firebaseio.com/raksha1207/aws-account-shredder/master.json)
 ## Deploying Shredder Locally
 
 Load up CRC or Minishift. If you don't already have them, create the namespace for `aws-account-operator` and `aws-account-shredder`.
